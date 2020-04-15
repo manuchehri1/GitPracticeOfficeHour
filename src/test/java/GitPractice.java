@@ -3,5 +3,7 @@ public class GitPractice {
         System.out.println("hello world");
         System.out.println("hello world");
         System.out.println("hello world");
+                System.out.println("hello master");
+
     }
 }
